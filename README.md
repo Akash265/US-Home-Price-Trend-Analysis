@@ -47,6 +47,7 @@ The Home Price Index (HPI) is a crucial economic indicator that reflects changes
   - `xgboost`
   - `shap`
   - `dotenv`
+  - `scikit-learn`
 
 ## Installation
 
